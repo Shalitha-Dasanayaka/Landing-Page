@@ -1,0 +1,25 @@
+body{
+    inline:block;
+}
+header{
+    color:#f9faf8;
+    font-size: 24px;
+    display:flex;
+    justify-content:space-around;
+    align-items: flex-start;
+    padding-top:0;
+}
+ul{
+    list-style-type:none;
+    font-size: 18px;
+    color:#e5e7eb;
+    display:flex;
+    align-items: flex-start;
+    gap:12px;
+}
+.header{
+    background-color: #1F2937;
+}
+.links{
+    align-self:center;
+}
