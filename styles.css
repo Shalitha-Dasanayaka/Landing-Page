@@ -9,7 +9,7 @@ header{
     align-items: flex-start;
 }   
 .logo{
-    padding-left: 150px;
+    padding-left: 180px;
 }
 ul{
     list-style-type:none;
@@ -20,7 +20,7 @@ ul{
     display:flex;
     align-items: flex-start;
     gap:12px;
-    padding-right:150px;
+    padding-right:180px;
 }
 a{
     text-decoration: none;
@@ -38,7 +38,7 @@ a{
    justify-content:space-around;
    align-items:flex-start;
    padding:50px 0px;
-   gap:18px;
+   gap:36px;
 }
 .awesome{
    font-size:48px;
@@ -74,10 +74,12 @@ a{
     margin-top:8px;
 }
 .left{
-    padding-left:150px;
-    
+    padding-left:180px;
+    align-self:flex-start;
+    padding-right: 78px;
+    margin-right:20px;
 }
 .right{
     align-self:flex-end;
-    padding-right:150px; 
+    padding-right:180px; 
 }
